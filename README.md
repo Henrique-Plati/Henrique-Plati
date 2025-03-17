@@ -4,9 +4,9 @@
   <tr>
     <td>
       <ul>
-        <li> 🔭 I’m currently working on IT Support Technician </li>
-        <li> 🌱 I’m currently learning JAVA </li>
-        <li> 📫 Contact me by email: henriquefranc5@gmail.com </li>
+    <li> 🔭 I’m currently working on IT Support Technician </li>
+    <li> 🌱 I’m currently learning JAVA </li>
+    <li> 📫 Contact me by email: henriquefranc5@gmail.com </li>
       </ul>
     </td>
     <td>
